@@ -52,3 +52,8 @@ After interpreting the results of our model and knowing which variables affect t
 2. **Offer different incentives such as travel amenities, credit card reward points, gas-purchase rewards, etc., for individuals who spend above their average credit balance.** According to our model, individuals who spend a higher dollar amount are much more likely to stay with the company since the transaction amount is the second most important variable for our model. 
 
 3. **Offer incentives such as increased rewards for customers who have more than one company product.** Our model shows us that the more products a customer has through your company, the less likely they are to churn. This goes along with creating loyal customers who open multiple credit cards through your company. These customers are less likely to churn than a customer who has just one credit card opened.  
+
+## Contact
+Created by [@cadekeenan] <br>
+Created by [@immcsorley] <br>
+Created by [@timcookk] <br>
